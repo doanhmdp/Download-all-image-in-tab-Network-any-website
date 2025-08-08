@@ -8,4 +8,3 @@ Download all image in tab Network any website
 4. Reload the page and you will see the requests displayed in the Network tab (including images, code,....)
 5. Paste the code I provided in the console below, press Enter and enjoy the results
 
-Share: Minh Doanh (doanhmdp)
